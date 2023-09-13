@@ -1,0 +1,3 @@
+name: MagicCarpet
+version: '${project.version}'
+main: endermcx.magiccarpet.MagicCarpet
